@@ -434,6 +434,10 @@ D-18059 Rostock, Germany
 
 72. *Voc4Cat: A mature community resource for building interoperable data models in catalysis*, N. G. Moustakas, D. Linke, 59. Jahrestreffen Deutscher Katalytiker, 18-20 March 2026, Weimar, Germany. (Poster Presentation)
 
+73. *From terms to infrastructure: Voc4Cat at the heart of FAIR catalysis data in NFDI4Cat*, N. G. Moustakas, D. Linke, KNOWSKITE-X 7th Webinar, 10 November 2026, Online. (Oral Presentation)
+
+74. *Voc4Cat: A community-curated SKOS vocabulary as semantic foundation for FAIR and interoperable data models in catalysis*, N. G. Moustakas, D. Linke, Joint NFDI4Cat and NFDI4Ing Cutting Edge conferences, 7-9 December 2026, Frankfurt, Germany. (Poster Presentation)
+
 ### F. Other work (Not peer-reviewed)
 
 1. *Voc4cat: Vocabulary guidelines for NFDI4Cat*, N. G. Moustakas, A. Behr, H. Borgelt, N. Huskova, R. Khare, M. Talab, J. Köbl, V. Chandraskekhar, T. Petrenko, M. Dörr, D. Linke, 2023, Zenodo (10.5281/zenodo.7669183).
